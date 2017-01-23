@@ -1,4 +1,4 @@
-Surbma - Yes/No Popup
+Apollonia - Yes/No Popup
 =====================
 
-Shows a popup with Yes/No options.
+Shows popups with Yes/No options.
